@@ -24,7 +24,7 @@ Modules
 
 ### Template engine
 -----------
- Jade<br>
+ ejs
 <hr>
 
 ### Support
