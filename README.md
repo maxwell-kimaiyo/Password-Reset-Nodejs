@@ -9,10 +9,9 @@ Implement Password Reset In Node.js. We will build a complete application.using 
 
 ```js
 git clone  https://github.com/maxwell-kimaiyo/Password-Reset-Nodejs-.git
- <br>
+ 
  ```
-
-- cd password-reset && npm install
+-  npm install
 
 ### Run
 ------------
@@ -27,10 +26,8 @@ Modules
 ### Template engine
 -----------
  Jade<br>
-
 <hr>
 Keep Learning :)<br>
-
 
 ### Support
 
