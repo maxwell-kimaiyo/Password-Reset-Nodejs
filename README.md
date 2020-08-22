@@ -15,7 +15,7 @@ git clone  https://github.com/maxwell-kimaiyo/Password-Reset-Nodejs-.git
 
 ### Run
 ------------
-- node app.js
+- node index.js
 
 Modules
 -----------
