@@ -2,7 +2,6 @@
 
 Implement Password Reset In Node.js. We will build a complete application.using Node.js, Express, Passport, Mongoose, EJS, Nodemailer.
 
-
 ### Install 
 
 ------------
@@ -20,17 +19,15 @@ git clone  https://github.com/maxwell-kimaiyo/Password-Reset-Nodejs-.git
 Modules
 -----------
 * Mongoose for MongoDB <br>
-* Nodemailer for send email (WARNING use the 0.7.1, latest versions not working!) <br>
-* crypto a way of encapsulating secure credentials <br>
+* Nodemailer for send email (WARNING use the 0.7.1, latest versions not working!) 
+* crypto a way of encapsulating secure credentials 
 
 ### Template engine
 -----------
  Jade<br>
 <hr>
-Keep Learning :)<br>
 
 ### Support
-
 Reach out to me at one of the following places!
 
 - Twitter at <a href="http://twitter.com/maxxmalakwen" target="_blank">`@maxxmalakwen`</a>
